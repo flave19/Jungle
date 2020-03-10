@@ -38,12 +38,5 @@ RSpec.describe Product, type: :model do
       expect(test_product).to_not be_valid
 
     end
-
-
   end
 end
-
-# validates :name , presence: true
-# validates :price, presence: true
-# validates :quatity, presence: true
-# validates :category, presence: true
