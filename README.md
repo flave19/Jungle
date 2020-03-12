@@ -25,3 +25,21 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+## Pictures
+
+### Home
+!["Jungle Home Image"](https://github.com/flave19/Jungle/blob/master/docs/Jungle-LaunchPage.png)
+
+### Checkout
+!["Jungle Checkout Image"](https://github.com/flave19/Jungle/blob/master/docs/Jungle_Checkout.png)
+
+### Security
+!["Jungle Security Image"](https://github.com/flave19/Jungle/blob/master/docs/Jungle-Security.png)
+
+### All Products
+!["Jungle All Products Image"](https://github.com/flave19/Jungle/blob/master/docs/Jungle-AllProducts.png)
+
+### New Product
+!["Jungle New Product Image"](https://github.com/flave19/Jungle/blob/master/docs/Jungle-NewProduct.png)
